@@ -1,2 +1,11 @@
-# Lab02-Comunicaciones_Digitales
-Material del laboratorio 02 de comunicaciones digitales
+
+# Laboratorio 2 - Interferencia Intersímbolo (ISI)
+
+Repositorio designado al material del laboratorio.
+
+
+
+## Alumnos
+
+- Aaroz Pozas Oyarce
+- Diego Pérez Carrasco
